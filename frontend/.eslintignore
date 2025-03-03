@@ -1,0 +1,16 @@
+node_modules
+build
+.github
+.eslintrc.cjs
+src/service-worker.ts
+src/serviceWorkerRegistration.ts
+src/setupTests.ts
+src/reportWebVitals.ts
+src/react-app-env.d.ts
+vite.config.ts
+tailwind.config.js
+src/vite-env.d.ts
+.prettierrc
+.vite
+dist
+postcss.config.cjs
