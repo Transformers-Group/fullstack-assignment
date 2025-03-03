@@ -43,5 +43,3 @@ Now, have a look at the file in `/api/app/views/chat.py` on line 73 you see wher
 Install the dependencies and start you development server with `npm run dev`. You should now see the chat interface. Now open `/frontend/src/common/Agent/index.tsx`. This is where you'll need to implement the streaming logic.
 
 Good Luck!
-
-```
